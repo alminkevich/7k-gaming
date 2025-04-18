@@ -2,7 +2,7 @@
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, WebAppInfo
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters
 
-TOKEN = "8180115203:AAGT97dkcj5EYbTd5J4T_vy-Uq3N7yDNvCM"
+TOKEN = "8125680815:AAHcYcw_WvQ4ulE3Dhj4nJVobEQUXMbvdgE"
 WEB_APP_URL = "https://sevenk-gaming.onrender.com"
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
